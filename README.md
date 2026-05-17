@@ -64,5 +64,5 @@ Improve dashboard theme and readability
 Add forecasting visuals
 Introduce profit margin analysis
 Optimize mobile dashboard layout  
- screen short:https://github.com/siddhimore415-design/Sales-Daashboard/blob/main/Screenshot%202026-05-17%20164630.png
+ screen short:https://github.com/siddhimore415-design/Sales-Daashboard/blob/main/Screenshot%202026-05-17%20172003.png
  
